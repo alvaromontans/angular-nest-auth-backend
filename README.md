@@ -35,5 +35,5 @@ $ npm run test:cov
 
 ## Contacto
 
-- Author - [Kamil Myśliwiec]
+- Author - [Álvaro Montáns]
 
